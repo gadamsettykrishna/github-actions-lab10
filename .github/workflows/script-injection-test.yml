@@ -1,4 +1,4 @@
-name: Issues (Script Injection Example)
+name:  Issues (Script Injection Example)
 on:
   issues:
     types:
